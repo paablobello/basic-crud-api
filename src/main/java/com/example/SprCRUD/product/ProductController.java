@@ -37,8 +37,4 @@ public class ProductController {
         return productService.deleteProduct(id);
     }
 
-
-
-
-
 }
